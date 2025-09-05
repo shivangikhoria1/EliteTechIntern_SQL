@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM Sales;
+SELECT * FROM Sales LIMIT 5;

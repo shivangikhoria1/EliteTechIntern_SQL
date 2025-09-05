@@ -1,0 +1,9 @@
+sale_id,customer_name,product,amount,sale_date
+1,Aarav,Laptop,55000.00,2025-01-05
+2,Priya,Mobile,20000.00,2025-01-10
+3,Rohit,Laptop,56000.00,2025-01-15
+4,Meera,Tablet,15000.00,2025-01-20
+5,Aarav,Headphones,3000.00,2025-01-25
+6,Priya,Laptop,54000.00,2025-02-01
+7,Rohit,Mobile,22000.00,2025-02-05
+8,Meera,Laptop,58000.00,2025-02-08
